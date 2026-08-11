@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-2qh169.privatetalks.online/sitemap.xml
